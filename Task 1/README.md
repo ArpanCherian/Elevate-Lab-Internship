@@ -11,7 +11,7 @@ This project is part of the SQL Developer Internship – Task 1. It involves des
 - **MedicalRecord**: Generated from appointments
 
 ## 📋 ER Diagram
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](hospitalmanagement_erdiagram.png)
 
 ## ⚙️ SQL DDL
 All SQL statements to create the schema are in [`schema.sql`](schema.sql).
@@ -26,5 +26,4 @@ All SQL statements to create the schema are in [`schema.sql`](schema.sql).
 - MySQL Workbench (for schema creation)
 - dbdiagram.io (for ER Diagram)
 
-## 🔗 Submission
-GitHub Repo: [Insert your GitHub link here after upload]
+
